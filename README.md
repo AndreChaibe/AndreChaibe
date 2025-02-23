@@ -14,7 +14,7 @@
 
 <br>
 
-##Gráfico de contribuição
+## Gráfico de contribuição:
 ![snake gif](https://github.com/Andre-Chaibe-21/Andre-Chaibe-21/blob/output/github-contribution-grid-snake-dark.svg)
 
 ### Pra conteúdo sobre programação me segue a na rede abaixo!
