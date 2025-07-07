@@ -7,7 +7,7 @@
       </td>
       <td>
         <p> Desenvolvedor Front-End com mais de 1 ano de experiência, focado em crescimento contínuo e excelência profissional.
-        Proficiente em <strong>HTML, CSS, JavaScript</strong> e <strong>React</strong>. Busco oportunidades <br> em empresas
+        Proficiente em <strong>HTML, CSS, JavaScript</strong> e <strong>React</strong>. Busco oportunidades em empresas
         inovadoras para aprimorar minhas habilidades e contribuir com soluções de impacto.</p>
         <h3 align="center">✅ Os acertos mais valiosos nascem das lições dos erros 🌱</h3>
       </td>
@@ -23,17 +23,16 @@
 </div>
 
 ### Hard Skills :
-
-<div style="display: inline-block"><br>
-   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px; width: 70px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" /></a>
-   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px; width: 70px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" /></a>
-   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px; width: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" /></a>
-   <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 15px; width: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="Jest" /></a>
-   <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 15px; width: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" /></a>
-   <a href="https://reactjs.org/" target="_blank"><img style="margin: 15px; width: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="React" /></a>
-   <a href="https://reactjs.org/" target="_blank"><img style="margin: 15px; width: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" /></a>
-   <a href="https://github.com/" target="_blank"><img style="margin: 15px; width: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" /></a>
-   <a href="https://www.figma.com/" target="_blank"><img style="margin: 15px; width: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" /></a>
+<div style="display: inline-block">
+   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px; width: 50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" /></a>
+   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px; width: 50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" /></a>
+   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px; width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" /></a>
+   <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 15px; width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="Jest" /></a>
+   <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 15px; width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" /></a>
+   <a href="https://reactjs.org/" target="_blank"><img style="margin: 15px; width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="React" /></a>
+   <a href="https://reactjs.org/" target="_blank"><img style="margin: 15px; width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" /></a>
+   <a href="https://github.com/" target="_blank"><img style="margin: 15px; width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" /></a>
+   <a href="https://www.figma.com/" target="_blank"><img style="margin: 15px; width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" /></a>
 </div>
 
 <br>
