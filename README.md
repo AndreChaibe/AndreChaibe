@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=ffff&background=A368FF00&center=true&vCenter=true&multiline=true&width=463&height=100&lines=Hello%2C+my++name+is+Andr%C3%A9!;+I'm+a+front-end+developer)](https://git.io/typing-svg)
 
-<img align="right" width="270" src="https://i.imgur.com/9D0QSrg.png" />
+<img align="right" width="200" src="https://i.imgur.com/9D0QSrg.png" />
 
 <h3>🦉 Sobre mim: </h3>
 <p>
