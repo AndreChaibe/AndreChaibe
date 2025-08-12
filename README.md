@@ -22,9 +22,8 @@
 <br />
 <br />
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreChaibe&theme=midnight-purple) 
-  <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreChaibe&layout=compact&langs_count=6&theme=midnight-purple"/></a>
-  <br> <p align="left">![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreChaibe&theme=midnight_purple)</p>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AndreChaibe&theme=midnight-purple"/><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreChaibe&layout=compact&langs_count=6&theme=midnight-purple"/></a>
+  <br> <img width="790em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreChaibe&theme=midnight_purple">
  
  
   
