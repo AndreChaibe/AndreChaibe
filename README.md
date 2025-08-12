@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=ffff&background=A368FF00&center=true&vCenter=true&multiline=true&width=463&height=100&lines=Hello%2C+my++name+is+Andr%C3%A9!;+I'm+a+front-end+developer)](https://git.io/typing-svg)
 
-<img align="right" width="200" src="https://i.imgur.com/9D0QSrg.png" />
+<img align="right" width="200" src="https://imgur.com/7rIQNyw.png" />
 
 <h3>🦉 Sobre mim: </h3>
 <p>
@@ -22,13 +22,12 @@
 <br />
 <br />
 
-<div>
-  <a href="https://github.com/AndreChaibe"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreChaibe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreChaibe&layout=compact&langs_count=6&theme=tokyonight"
-    />
-  </a>
-</div>
-
-<br />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreChaibe&theme=midnight-purple) 
+  <img height="196em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreChaibe&layout=compact&langs_count=6&theme=midnight-purple"/></a>
+  <br> <p align="left">![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndreChaibe&theme=midnight_purple)</p>
+ 
+ 
+  
 <br />
 
 <table>
