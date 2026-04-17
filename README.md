@@ -6,13 +6,11 @@
 
 <h3>🦉 Sobre mim: </h3>
 <p>
-  Desenvolvedor Front-End com mais de 1 ano de experiência, focado em
-  crescimento contínuo e excelência profissional. Proficiente em
-  <strong>HTML, CSS, JavaScript</strong> e <strong>React</strong>.
-  Acredito no poder da tecnologia para transformar experiências e busco
-  sempre entregar soluções eficazes e eficientes. Busco oportunidades em
-  empresas inovadoras para aprimorar minhas habilidades e contribuir com
-  soluções de impacto.
+ Desenvolvedor Front-end com experiência em React.js, TypeScript e arquitetura modular de
+interfaces. Atuação focada em performance, componentização e redução de dívida técnica.
+Experiência com integração de APIs REST, otimização de bundle e melhoria de UX.
+Histórico de aceleração de entregas, padronização de código e aumento de engajamento
+em aplicações web.
 </p>
 <br />
 <p align="center">
